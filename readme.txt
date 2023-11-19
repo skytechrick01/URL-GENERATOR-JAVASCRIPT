@@ -1,5 +1,10 @@
 Hello, my name is Rick, I live in West Bengal, India.
-Contact me on What's App https://wa.me/8436431656?text=Hello,%20I%20want%20a%20help%20from%20you%20messaged%20you%20from%20Github%20URL%20Generator
+What's App: https://wa.me/8436431656?text=Hello,%20I%20want%20a%20help%20from%20you%20messaged%20you%20from%20Github%20URL%20Generator
+Instagram: https://www.instagram.com/sky_tech_rick
+Linkedin: https://www.linkedin.com/in/skytechrick
+Facebook: https://www.facebook.com/Skytechrick 
+Github: https://github.com/skytechrick01
+
 -----------------------------------------------------------------------------------------------
 I am a programer and a student too.------------------------------------------------------------
 -----------------------------------------------------------------------------------------------
